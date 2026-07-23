@@ -1,1 +1,1 @@
-# Innovation-Challenge-Template
+# Innovation Challenge Template
