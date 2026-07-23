@@ -22,7 +22,7 @@ Here is where the reader's task would be, and what their proposed solution shoul
 ## Sub-Problems
 
 ### Sub-Problem with Multiple Challenges
-A description of the sub-problem would go here. Not every sub-problem has multiple challenges like this one, but they should be formatted like this if they are. Sub-problems should also have a name and not just a number, but this is just a template so they're numbered.
+A description of the sub-problem would go here. Not every sub-problem has multiple challenges like this one, but they should be formatted like this if they are.
 
 #### Challenge A
 Description of the challenge would go here. 
