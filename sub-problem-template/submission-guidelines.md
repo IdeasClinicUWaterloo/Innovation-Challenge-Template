@@ -164,7 +164,7 @@ Teams should ensure:
 - Colours have sufficient contrast
 - Hyperlinks use descriptive text
 
-See [Accessibility Guidelines](../Accessibility.md) for more information.
+See [Accessibility Guidelines](../accessibility.md) for more information.
 
 ---
 
