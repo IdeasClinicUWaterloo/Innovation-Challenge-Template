@@ -64,19 +64,19 @@ The following resources may help teams better understand the problem and develop
 
 ## Background Information
 
-- [Resource name](<RESOURCE_URL>)
+- [Resource name](#)
 
 ## Technical Resources
 
-- [Documentation](<DOCUMENTATION_URL>)
-- [Tools](<TOOLS_URL>)
-- [Libraries](<LIBRARIES_URL>)
+- [Documentation](#)
+- [Tools](#)
+- [Libraries](#)
 
 ## Data Sources
 
-- [Dataset or API](<DATASET_URL>)
+- [Dataset or API](#)
 
 ## Additional References
 
-- [Research paper](<PAPER_URL>)
-- [Tutorial](<TUTORIAL_URL>)
+- [Research paper](#)
+- [Tutorial](#)
