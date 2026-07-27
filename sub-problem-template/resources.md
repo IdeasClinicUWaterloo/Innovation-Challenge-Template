@@ -17,7 +17,7 @@ Teams are encouraged to use these resources as references, but they are not limi
 
 ---
 
-# Background Information
+## Background Information
 
 Resources that help teams understand the problem context, industry background, and relevant stakeholders.
 
@@ -29,19 +29,19 @@ Examples:
 
 ---
 
-# Technical Resources
+## Technical Resources
 
 Resources related to software development, hardware implementation, APIs, frameworks, and tools.
 
 Examples:
 
-## Software Development
+### Software Development
 
 - [Documentation](#)
 - [API Reference](#)
 - [Framework Guide](#)
 
-## Tools and Platforms
+### Tools and Platforms
 
 - [Tool name](#)
 - [Library name](#)
@@ -49,7 +49,7 @@ Examples:
 
 ---
 
-# Data Sources
+## Data Sources
 
 Datasets, APIs, and other sources of information that teams may use.
 
@@ -61,7 +61,7 @@ Examples:
 
 ---
 
-# Design Resources
+## Design Resources
 
 Resources that support user experience design, prototyping, and visualization.
 
@@ -73,7 +73,7 @@ Examples:
 
 ---
 
-# Research and References
+## Research and References
 
 Academic papers, reports, and technical references.
 
@@ -85,7 +85,7 @@ Examples:
 
 ---
 
-# Additional Resources
+## Additional Resources
 
 Other helpful materials.
 
