@@ -16,7 +16,7 @@ Describe the current situation, existing challenges, and the impact that solving
 
 ---
 
-# Challenge
+## Challenge
 
 Your goal is to develop solutions that address [describe the main challenge].
 
@@ -44,7 +44,7 @@ Solutions should consider:
 
 ---
 
-# Potential Solutions
+## Potential Solutions
 
 The ideas below are examples to help teams explore possible directions. They are not the only possible solutions.
 
@@ -58,25 +58,25 @@ Teams are encouraged to combine ideas, explore new approaches, and develop creat
 
 ---
 
-# Resources
+## Resources
 
 The following resources may help teams better understand the problem and develop solutions.
 
-## Background Information
+### Background Information
 
 - [Resource name](#)
 
-## Technical Resources
+### Technical Resources
 
 - [Documentation](#)
 - [Tools](#)
 - [Libraries](#)
 
-## Data Sources
+### Data Sources
 
 - [Dataset or API](#)
 
-## Additional References
+### Additional References
 
 - [Research paper](#)
 - [Tutorial](#)
